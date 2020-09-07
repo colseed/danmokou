@@ -74,7 +74,7 @@ public static class SaveData {
     #endif
         public float Screenshake = 1f;
         public FullScreenMode Fullscreen = FullScreenMode.FullScreenWindow;
-        public int Vsync = 1;
+        public int Vsync = 0;
         public bool UnfocusedHitbox = true;
         public float DialogueWaitMultiplier = 1f;
         public float BGMVolume = 1f;
